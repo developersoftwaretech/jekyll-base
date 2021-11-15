@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: EXCLUSIVE-Evergrande CEO in Hong Kong for restructuring, asset sale talks, sources say - Reuters
+date: 2021-10-15 13:49:00
+thumbnail: https://static.reuters.com/resources/r/?m=02&d=20211015&t=2&i=1577964240&r=LYNXMPEH9E0MZ&w=800
+rating: 3
+---
+HONG KONG (Reuters) - Evergrande Groups chief executive is holding talks in Hong Kong with investment banks and creditors over a possible restructuring and asset sales, two people said, as the Chines… [+3908 chars]</br>&nbsp;Developer Software Tech. Adana'nın genç ve dinamik yazılım firmalarından biri olmak için her daim kendini geliştiren yazılım konusunda yaratıcı ve güvenilir projeler üreten bir yazılım firmasıdır. Hazır altyapılı sistemler kullanmak yerine DevCMS web içerik yönetim sistemiyle altyapımızı kendimiz oluşturuyoruz. Developer Software Tech. web tabanlı özel yazılımlar ile teknik yeterliliği yüksek ve kaliteli altyapısı ile, uzun ömürlü ve güvenli yazılımlar geliştirme hususunu kendine ilke edinmiştir.<a href="https://www.developerbilisim.com/">developer</a>

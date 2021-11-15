@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Aydın merkezli yasadışı bahis operasyonu: 11 tutuklama
+date: 2021-10-27 18:00:50
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/617993ad4e3fe00c38d4fbad.jpg
+rating: 4
+---
+Jandarma Genel Komutanlığı Siber Suçlarla Mücadele Daire Başkanlığı ile Aydın İl Jandarma Komutanlığı Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, 6 ay önce kentte yasa dışı bahis oynatan suç örgütlerine yönelik çalışma başlattı. Bahis oynatmak amacıyla Nazilli ilçesinde bir eve bilgisayar sistemi kurulduğunu belirleyen jandarma, şüphelileri takibe aldı. Teknik ve fiziki takibin ardından Aydın merkez ve Nazilli ilçesi olmak üzere İzmir, Denizli ile Şanlıurfa'da önceden belirlenen 20 adrese eş zamanlı operasyon düzenlendi. Operasyonda aralarında suç örgütü elebaşı O.B.'nin de bulunduğu 16 kişi gözaltına alındı. Firari bir kişinin yakalanması için çalışma başlatıldı.Adreslerdeki aramalarda ise 2 masaüstü bilgisayar, 7 laptop, 5 laptop adaptörü,18 cep telefonu, 1 tablet, 6 harddisk, 3 harici harddisk, 12 usb bellek, 2 hafıza kartı, 9 sim kart, 4 bahis hesaplarının tutulduğu not defteri ele geçirildi. Şüphelilerin yasa dışı bahis oynatmak için özel yazılım geliştirdikleri, bahis oynayan kişilerin de suç örgütünün belirlediği hesaba para yatırdıkları belirlendi.11 ŞÜPHELİ TUTUKLANDIGözaltına alınan şüpheliler, ifadeleri alınmak üzere Nazilli İlçe Jandarma Komutanlığına götürüldü. İşlemlerinin ardından adliyeye sevk edilen şüphelilerden 11'i tutuklandı, 5 kişi ise adli kontrol şartıyla serbest bırakıldı. Ayrıca, yasa dışı bu siteler üzerinden oyun oynadıkları belirlenen 113 kişiye de toplam 1 milyon 342 bin 101 lira para cezası kesildi.

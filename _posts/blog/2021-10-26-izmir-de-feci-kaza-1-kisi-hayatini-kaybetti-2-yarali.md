@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: İzmir'de feci kaza! 1 kişi hayatını kaybetti, 2 yaralı
+date: 2021-10-26 04:19:50
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/617781b44e3fe1000801a26f.jpg
+rating: 3
+---
+Kaza, saat 03.00 sıralarında Mustafa Kemal Sahil Bulvarı ile Suna Sokak kesişimi yakınında meydana geldi. İddiaya göre, Balçova yönünden Konak istikametine seyir halinde olan Barışcan Kılıç(25), henüz belirlenemeyen bir nedenle yönetimindeki 35 AZ 258 plakalı hafif ticari aracın direksiyon hakimiyetini kaybetti.Kontrolden çıkan hafif ticari araç, yol kenarındaki tel örgüleri aşarak bir ağaca çarptı. Kazayı gören çevredeki vatandaşlar, durumu sağlık ve polis ekiplerine bildirdi. İhbar üzerine olay yerine gelen polis ekipleri trafik akışını durdurarak güvenlik önlemi alırken, sağlık ekipleri hafif ticari araçta bulunan yaralılara müdahalede bulundu. Yapılan kontrollerde sürücü Barışçan Kılıç'ın olay yerinde yaşamını yitirdiği tespit edildi. Öte yandan, kimliği öğrenilemeyen 2 yaralı ise ambulanslar ile çevre hastanelere sevk edildi.Kaza nedeniyle hafif ticari araca sıkışarak yaşamını yitiren Barışcan Kılıç'ın cansız bedeni, savcının incelemesinin ardından 110 AKS ekiplerinin yaptığı müdahale ile araçtan çıkartıldı. Cenaze aracına koyulan Kılıç, otopsi yapılmak üzere İzmir Adli Tıp Kurumu morguna kaldırıldı. Kazayla ilgili başlatılan soruşturmanın sürdüğü öğrenildi.İlgili Haberler:Ozan Orhon: Amerika’da yapamadım, kebapçıda şarkı söylüyordum!Belarus krizi adım adım geldiDemet Özdemir'den iddialara yanıt: Bugün estetiği fazla kaçırdım
