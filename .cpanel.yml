@@ -1,0 +1,10 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/ucanmedya/tiklaparakazan.com/  
+        - /bin/cp <file_name> $DEPLOYPATH              
+        - /bin/cp /_posts/blog/ $DEPLOYPATH                
+        - /bin cp /_posts/blog/* $DEPLOYPATH            
+      
+        
+        
