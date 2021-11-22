@@ -1,8 +1,8 @@
 ---
 deployment:
       tasks:
-        - export DEPLOYPATH=/home/ucanmedya/
-        - /bin/cp /home/ucanmedya/tiklaparakazan.com/classic.html $DEPLOYPATH                      
+        - export DEPLOYPATH=/home/ucanmedya/tiklaparakazan.com/
+        - /bin/cp /_posts/blog/* $DEPLOYPATH                      
       
         
         
