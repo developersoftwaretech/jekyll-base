@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: 'İmam Hatipliler’in fetret devrini biz bitirdik'
-date: 2021-10-16 04:00:00
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6169ec974e3fe01a8cf90bad.jpg
-rating: 3
----
-“Katsayı uygulamasını kaldırıp 4+4+4 uygulamasını başlatarak imam hatiplilerin fetret devrini biz sonlandırdık” diyen Erdoğan, özetle şunları söyledi: “Esasen İmam hatiplerin tarihi, milletimizin hak, hukuk, özgürlük ve adalet mücadelesinin de tarihidir. Kuruluşundan itibaren imam hatipler bu ülkede demokrasinin standardını gösteren bir mihenk taşı olmuştur. 12 Mart muhtırasında ortaokul kısımları kapatılarak, lise kısımları 4 yıla çıkarılmıştır. 1974’te ortaokul bölümü yeniden açılmış, okul sayısı 101’e çıkmıştır.‘BU OKULLARDAN HİÇ HAİN ÇIKMADI’İmam hatipler 28 Şubat döneminde, vesayetçilerin yeniden hedefi olmuş, katsayı zulmü ile de üniversite hayallerine set çekilmiştir. Kendi evlatlarım da dahil imam hatipliler, üniversite hayallerini ya ertelemek ya da yurtdışında gerçekleştirmek zorunda kalmıştır. Katsayı uygulamasını kaldırıp 4+4+4 uygulamasını başlatarak imam hatiplilerin fetret devrini biz sonlandırdık. İmam hatip mezunuyum ama hiçbir zaman imam hatipçi olmadım. Bizim için tüm okullar emirlerinde olduğumuz okullardır. Hepsine elimizden gelen tüm destekleri de veriyoruz. Bu okullardan hafız çıkmış, alim çıkmış, doktor, mühendis, hâkim, avukat, bürokrat, işadamı, siyasetçi, bakan, başbakan, cumhurbaşkanı çıkmış ama Allah’a hamdolsun kendi insanına kurşun sıkan hain çıkmamıştır. 28 Şubat döneminde kapısına kilit vurulmak istenen bu okullar bugün ülkemizin en çok tercih edilen eğitim kurumları arasında yer alıyor.”Sempozyumdaki sergiyi gezen Erdoğan’a, Milli Eğitim Bakanı Mahmut Özer eşlik etti. 

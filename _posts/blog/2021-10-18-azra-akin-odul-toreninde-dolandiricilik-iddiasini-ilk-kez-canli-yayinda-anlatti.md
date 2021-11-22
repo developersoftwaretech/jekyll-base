@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Azra Akın, ödül töreninde dolandırıcılık iddiasını ilk kez canlı yayında anlattı!
-date: 2021-10-18 09:45:00
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/616d42a04e3fe00e2c97c42c.jpg
-rating: 5
----
-“BURADA EN ÖNEMLİ KONU SÖZLERİN TUTULMAMASI”8’inci kez yapılan ödül töreninde daha önceden yer aldığını söyleyen Azra Akın “Bu şekilde olunca insanda referans oluyor” dedi. Gecenin organizatörü Burak Akan ile provalarda karşılaştığını anlatan Akın, bağış detayının altını çizerek “Umudum Olur Musun? Derneği için bir bağış gecesi olacaktı aynı zamanda. Çünkü biz insanlar, çocuklar, gençler için çalışan bir derneğiz. Dernek olarak böyle etkinlik yapmak güzel oluyor, bağış toplanabiliyor. Bu şekilde olunca biz kabul ettik ama gördük ki verilen sözleri tutulamadı, tutulmadı.” diyerek sitem etti. Ödül töreninin 8’inci kez yapıldığını ve belediye ile işbirliği içerisinde olduğunu bildiği için güven duyduklarını anlattı. Ödül gecesinden sonra bağışların gelmediğini vurgulayarak “Değerli dostlarımız bize destek oldular, sanat eserlerini bağışladılar. Ona rağmen bu bağışlar gelmedi. Burada en önemli konu sözlerin tutulmaması” dedi. Arzum Onan’ın heykelinin özensiz şekilde güvenliğe bırakılıp kaçıldığını anlatan Azra Akın, Nurgül Yeşilçay’ın tablosunun henüz ortada olmadığını söyledi.Dernek yetkililerinden Yasemin Kök ise vaatlerin hiçbirinin yerine getirilmediğini vurguladı. Para karşılığında ödül dağıtıldığını anlatarak, bunlardan son anda, ödül gecesinde haberleri olduğunu söyledi. “Çok ciddi bir suistimal var” diyerek isyan etti.  

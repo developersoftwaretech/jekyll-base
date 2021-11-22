@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti
-date: 2021-10-29 09:55:00
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/617bc4f94e3fe11528300b16.jpg
-rating: 5
----
-Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Cumhuriyeti'nin 98. yılı kutlamaları kapsamında Anıtkabir'deki törenin ardından Cumhurbaşkanlığı Külliyesi'ne geçti.Gözden KaçmasınErdoğan: Cumhuriyeti 2023 hedeflerine ulaştırmakta kararlıyızHaberi görüntüleCumhurbaşkanlığı Külliyesi'nin ana bina girişinde gerçekleştirilen törende, TBMM Başkanı Mustafa Şentop, Cumhurbaşkanı Yardımcısı Fuat Oktay, Anayasa Mahkemesi Başkanı Zühtü Arslan, Yargıtay Başkanı Mehmet Akarca, Danıştay Başkanı Zeki Yiğit, Sayıştay Başkanı Metin Yener, Cumhurbaşkanlığı Kabinesi üyeleri, MHP Genel Başkanı Devlet Bahçeli, Genelkurmay Başkanı Orgeneral Yaşar Güler ve kuvvet komutanları, TBMM üyeleri, kamu kurumlarının yöneticilerinin de aralarında olduğu devlet erkanı, yabancı misyon şefleri ile uluslararası kuruluşların temsilcileri Cumhurbaşkanı Erdoğan'a bayram tebriklerini sundu.Tören, Başkentte görevli çeşitli rütbelerden askeri personelin Cumhurbaşkanı Erdoğan'a tebriklerini sunmasıyla sona erdi.Salgın nedeniyle maske takan katılımcılar, sosyal mesafe kuralına uyarak Cumhurbaşkanı Erdoğan ile uzaktan selamlaştı.İlgili Haberler:Demet Özdemir'den iddialara yanıt: Bugün estetiği fazla kaçırdımHülya Avşar 'Telefonumdan silmedim' demişti, Tanju Çolak ilk kez konuştuBilim insanlarından ezber bozan koronavirüs iddiası... İlk sonuçlar yayınlandı!

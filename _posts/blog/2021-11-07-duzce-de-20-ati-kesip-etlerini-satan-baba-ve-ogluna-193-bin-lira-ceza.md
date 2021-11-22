@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Düzce'de 20 atı kesip, etlerini satan baba ve oğluna 193 bin lira ceza
-date: 2021-11-07 10:24:36
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6187a70e4e3fe012d45dc006.jpg
-rating: 5
----
-Gölyaka ilçesi Kemeryanı Mahallesi'nde Ali D. ile oğlu Ahmet D. tarafından at kesimi yapıldığı ve kesilen etlerin piyasa sürüldüğü, ayrıca atlardan geri kalan iskeletlerin de Melen Nehri kenarına atıldığı ihbarını alan Düzce İl Jandarma Komutanlığı ekipleri, inceleme başlattı. Baba oğulun evlerinin yanındaki depoya yapılan baskında Ali D. ve Ahmet D. suçüstü yakalandı. İlk tespitlere göre şüphelilerin 20 atı keserek piyasa sürdükleri anlaşıldı.Jandarmanın baskını üzerine Düzce Çevre ve Şehircilik İl Müdürlüğü ekipleri baba ve oğula, 2872 sayılı Çevre kanunu kapsamında belirlenen koruma esaslarına aykırı olarak içme ve kullanma suyu koruma alanlarına, kaynağın kendisine ve bu kaynağı besleyen yer üstü ve yer altı sularına, sulama ve drenaj alanlarına atık boşaltmaktan 193 bin TL idari ceza uyguladı. Ayrıca Gölkaya İlçe Tarım Müdürlüğü ekipleri tarafından ele geçirilen çok miktarda kemikli ete el konularak, alınan numune incelenmesi için ilgili kuruma gönderildi. Düzce 2'nci Sulh Ceza Hakimliği'nden alınan arama kararı gereğince Gölyaka İlçe Jandarma Komutanlığı ve İlçe Tarım Müdürlüğü ekipleri ile Ali D.'e ait evin ahır ve eklentilerinde arama yapılan baba ve oğlu hakkında adli işlem başlatıldı.Gözden KaçmasınBaştan sona kadar Lütfü Türkkan olayıHaberi Görüntüle

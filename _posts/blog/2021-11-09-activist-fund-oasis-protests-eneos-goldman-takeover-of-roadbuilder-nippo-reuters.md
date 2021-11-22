@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Activist fund Oasis protests Eneos, Goldman takeover of roadbuilder Nippo - Reuters
-date: 2021-11-09 09:49:00
-thumbnail: https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800
-rating: 4
----
-TOKYO, Nov 9 (Reuters) - Eneos Holdings bid to take its subsidiary, roadbuilder and property developer Nippo Corp, private with Goldman Sachs is meeting opposition from activist fund manager Oasis Ma… [+2666 chars]</br>&nbsp;Developer Software Tech. Adana'nın genç ve dinamik yazılım firmalarından biri olmak için her daim kendini geliştiren yazılım konusunda yaratıcı ve güvenilir projeler üreten bir yazılım firmasıdır. Hazır altyapılı sistemler kullanmak yerine DevCMS web içerik yönetim sistemiyle altyapımızı kendimiz oluşturuyoruz. Developer Software Tech. web tabanlı özel yazılımlar ile teknik yeterliliği yüksek ve kaliteli altyapısı ile, uzun ömürlü ve güvenli yazılımlar geliştirme hususunu kendine ilke edinmiştir.<a href="https://www.developerbilisim.com/">developer</a>

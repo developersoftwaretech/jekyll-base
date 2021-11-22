@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Cumhurbaşkanı Erdoğan, Macaristan Başbakanı Orban'ı resmi törenle karşıladı
-date: 2021-11-11 14:19:00
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/618d262e4e3fe00eb0208f3c.jpg
-rating: 3
----
-Konuk Başbakanın bulunduğu makam aracını Cumhurbaşkanlığı Külliyesi'nin önündeki caddede karşılayan süvariler, araca protokol kapısına kadar eşlik etti.Cumhurbaşkanı Erdoğan, Orban'ı, Cumhurbaşkanlığı Külliyesi'nin ana giriş kapısında karşıladı.Erdoğan ve Orban'ın tören alanındaki yerlerini almalarının ardından, 21 pare top atışı eşliğinde iki ülkenin milli marşları çalındı. Orban, Muhafız Alayı Tören Kıtası'nı selamladı. Törende, tarihte kurulan 16 Türk devletini temsil eden bayraklar ve askerler de yer aldı.İki ülke heyetlerinin takdimi sonrasında Erdoğan ve Orban, merdivenlerde Türkiye ve Macaristan bayrakları önünde gazetecilere poz verdi.Erdoğan ve Orban, Türkiye-Macaristan Yüksek Düzeyli Stratejik İşbirliği Konseyi 5. Toplantısı'nın ardından anlaşmaların imza törenine ve ortak basın toplantısına katılacak.Törende, Dışişleri Bakanı Mevlüt Çavuşoğlu, Gençlik ve Spor Bakanı Mehmet Muharrem Kasapoğlu, Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Milli Eğitim Bakanı Mahmut Özer, Milli Savunma Bakanı Hulusi Akar, Sanayi ve Teknoloji Bakanı Mustafa Varank, Ulaştırma ve Altyapı Bakanı Adil Karaismailoğlu, Cumhurbaşkanlığı İletişim Başkanı Fahrettin Altun, Cumhurbaşkanlığı Sözcüsü İbrahim Kalın da yer aldı.Gözden KaçmasınLütfü Türkkan hakkında fezleke Haberi görüntüle

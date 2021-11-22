@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Hırsıza tırpan
-date: 2021-10-18 04:00:00
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/616c88f44e3fe10f6838e9fe.jpg
-rating: 5
----
-Gümüşpala Mahallesi Ören Sokak’ta yaşayan S.B.’nin evine 12 Ekim 2021 gece saatlerinde hırsız girdi. Hırsızlar evde bulunan 2 bin lira, 4 cep telefonu, iPad, 4 bilezik, 3 adet 25 gram kolye ile birlikte kapının önünde park halinde bulunan lüks otomobilin kontak anahtarını da alarak dışarı çıktı.Evden aldıkları anahtarla lüks otomobile binen hırsızlar kayıplara karıştı. S.B.’nin başvurusu üzerine Asayiş Şube Hırsızlık Büro Amirliği ekipleri çalışma başlattı. Kamera görüntülerinden eve giren 3 hırsızın kimlikleri belirlendi. Sıcak takibi sürdüren polis ekipleri, hırsızların yeni bir hırsızlık faaliyeti için bir sokakta keşif yaptıklarını tespit etti. Sokağa giren polisler, 3 hırsızı yakalamak için harekete geçti. Polisin kendilerine doğru hamle yaptığını fark eden hırsızlardan ikisi koşarak kaçmaya çalışırken, hırsızlardan birini polis yakaladı.Ancak o da polisin elinden kurtulmak için hamle yaparak kaçmaya çalıştı. Bunun üzerine polis memuru, yağlı güreşçilerin kullandığı hareketlerden biri olan ‘tırpan’a başvurdu. Sağ ayağıyla hırsızın zemine basılı olan ayağına vurarak ayaklarını yerden kesti. Daha sonra da neye uğradığını şaşırarak yere düşen hırsızın arkasına geçerek kelepçeledi. Kaçmaya çalışan diğer 2 hırsız da kovalamaca ile yakalandı. Çaldıkları lüks otomobil ele geçerken, gözaltına alınan 16 suç kayıtlı Yusuf C.Y. (21), 22 suç kayıtlı Ferhat D. (22) ve 17 yaşındaki M.S.Ü., Emniyet’teki işlemlerinin ardından adliyeye sevk edildi. Yusuf C.Y. ve Ferhat D. tutuklandı, M.S.Ü. adli kontrolle serbest kaldı.

@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Emine Erdoğan'dan atık toplayıcılarına destek
-date: 2021-10-27 11:30:19
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/617938474e3fe00c38d4f79f.jpg
-rating: 3
----
-Emine Erdoğan, Twitter hesabından, bir süredir kamuoyunun gündemine gelen sokakta kağıt, plastik, cam gibi geri dönüşebilen atıkları toplayanlara ilişkin destek paylaşımında bulundu.Paylaşımında, Çevre ve Şehircilik Bakanlığının sosyal medya hesabından, sokaktan atık toplayanları Sıfır Atık Projesi'nin kahramanı olarak nitelendirdiği tweetine yer veren Emine Erdoğan, şunları kaydetti:"Atık toplayan emekçilerimiz, Sıfır Atık Projesi'nin doğal paydaşlarıdır. Çevre ve Şehircilik Bakanlığımızın atık emekçileriyle iş birliği yaklaşımını tebrik ediyor, tüm kurum ve kuruluşlarımıza örnek olmasını temenni ediyorum."Sıfır Atık Projesi'ne ilişkin de bilgi veren Emine Erdoğan, "Sıfır Atık Projesi'nin son verileri, 2017'den önce yüzde 13 olan geri dönüşüm oranının 2021 itibarıyla yüzde 22'ye yükseldiğini gösteriyor. Bu gurur verici tablonun 2023'e kadar tüm paydaşlarımızla yüzde 35'e ulaşması hedefimiz." ifadesini kullandı.Çevre ve Şehircilik Bakanlığı, paylaşımında, "Atık toplayıcı emekçiler, Sıfır Atık Hareketi'nin gizli kahramanıdırlar. Bakanlık merkez binamızda ayrıştırdığımız atıkları, lisanslı atık toplayıcı kardeşlerimize veriyoruz. Onlar da geri dönüştürüp ekonomimize katkı veriyorlar. Doğamıza destek oluyorlar." mesajını vermişti.Bakanlık, geçen hafta da İstanbul'un bazı ilçelerinde yerel yönetimlerin lisanssız atık depolarına yönelik baskınlarında, atık toplayıcılarının mağdur olmaları üzerine açıklama yapmış, söz konusu baskının, sokaktan atık toplayıcılarla ilgili olmadığını duyurmuştu.

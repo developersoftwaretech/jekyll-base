@@ -1,8 +1,0 @@
---- 
-layout: blog
-title: Çubuklu forma kriz çıkarttı
-date: 2021-11-04 04:00:00
-thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6183068f4e3fe01adc70a202.jpg
-rating: 3
----
-Fatih Aydın’a gözaltı kararı çıkınca Kaçakçılık ve Organize Suçlarla Mücadele Daire Başkanlığı ile Interpol-Europol Daire Başkanlığı ekipleri Uruguay’a gitmişti. Teslim alınan Fatih Aydın’ın üzerinde çubuklu Fenerbahçe forması vardı. Aydın uçakta üşüyünce çantasındaki bir siyah tişörtü üzerine giydi. Uçak önce Sao Paulo’ya ardından da İstanbul Havalimanı’na indi.SOSYAL MEDYA KARIŞTIFatih Aydın uçaktan üzerinde siyah tişörtle çıktı ve sağlık kontrolüne götürüldü. Doktor sağlık kontrolü sırasında Aydın’a şortu hariç tüm kıyafetlerini çıkarttırdı. Fatih Aydın doktorun yanından çıkarken formanın üzerine tişörtü giymedi. İlk fotoğraflar da çubuklu formayla burada çekildi.Sosyal medyadan tepkiler yükselince, polisler Emniyet’e girmeden önce Fatih Aydın’a siyah tişörtünü giydirdi ve Emniyet’e böyle soktu. Fatih Aydın tişörtü giymek istemeyince polisler tarafından zorlandı. Ancak o anlar “Polis, Fatih Aydın’a çubuklu formayla poz verdirdi” yorumlarıyla sosyal medyada paylaşıldı. Fenerbahçeli eski yönetici Metin Sipahioğlu ve Rıdvan Dilmen başta olmak üzere yüzlerce kişi, sosyal medyadan Aydın’ın formalı fotoğraflarına tepki gösterdi.‘HASSASİYETİ ANLIYORUZ’İstanbul Emniyeti’nden yapılan açıklamada, “Fenerbahçe taraftarının hassasiyetini anlıyor ve aynı hassasiyeti yürekten paylaşıyoruz. Üzüntüyle karşıladığımız bu olayda herhangi bir görevlimizin kasıt veya art niyetli yaklaşımı söz konusu olamaz” denildi. Fenerbahçe ise Emniyet’in sorumlular hakkında gereken adımları atmasını istedi.
