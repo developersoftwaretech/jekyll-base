@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Kemer Country Atlı Spor Kulübü binicileri At Terbiyesi Türkiye Şampiyonası'na damga vurdu
+date: 2021-11-01 07:00:23
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/617f906f4e3fe0193ca4c85b.jpg
+rating: 4
+---
+Türkiye Binicilik Federasyonu tarafından gerçekleştirilen ve federasyona kayıtlı tüm binicilere açık olan At Terbiyesi Türkiye Şampiyonası, 29-31 Ekim tarihleri arasında Kemer Country Atlı Spor Kulübü ev sahipliğinde gerçekleşti. 29 Ekim Cumhuriyet Bayramı coşkusuyla birleştirilen ve 3 gün boyunca gerçekleşen yarışmalarda Türkiye'nin farklı bölgelerinden en iyi 40 at ve biniciler farklı kategorilerde atların terbiyesi, itaati ve teknik ustalığını alabilmek için yarıştı. At Terbiyesi Türkiye Şampiyonası SonuçlarYıldızlar Kategorisi Şampiyonu Emir Yücel 2. Utkan Çelik 3. Lal Mira Gürgen P3 Kategorisi Şampiyonu Sienna Peri KiperP2 Kategorisi Şampiyonu Pia Avigidor2.Ece Demircan3.Eylül Akın P1 Kategorisi Şampiyonu Dafne Deniz Yaşar2. Ali Efe Morkoç 3.Gökçe Topaç Yeni Biniciler Kategorisi Şampiyonu Kayra Aranmış2. İrem Kavraz Usta Biniciler Kategorisi Şampiyonu Ebru Adaş 2. Murat Sarıçoban3.Semra Göksun Çilingir Para At Terbiyesi- Seviye V Sporcusu Türkiye Şampiyonu Özgür Belen- Seviye 2 Sporcusu Türkiye Şampiyonu Nilgün Özcan- Seviye 1 Sporcusu Türkiye Şampiyonu Canan Doğan / 2. Alperen Alper</br>&nbsp;Adana bölgesinde çilingir ve anahtarcılık üzerine profesyonel olarak hizmet vermekteyiz. Oto anahtarı veya kumandalarınızın pil değişim işlemi, kumanda kap değişimi, kumanda arızalarını gidermekteyiz.<a href="https://www.cilingiradana.net/">Çilingir</a>

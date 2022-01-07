@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Son dakika haberi: Cumhurbaşkanı Erdoğan'dan ticaret ve işbirliği vurgusu
+date: 2021-10-27 15:31:00
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/617971e94e3fe101701a6dcd.jpg
+rating: 3
+---
+Itno ile Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde gerçekleştirdikleri görüşmenin ardından ortak basın toplantısı düzenledi. Cumhurbaşkanı Erdoğan'nın konuşmasından satır başları şöyle;Bugün değerli kardeşimle gerçekleştirdiğimiz görüşmelerde Türkiye ve Çad arasındaki ilişkiler nasıl daha ileriye taşıyabileceğimize dair fikir alışverişinde bulunduk. Çad'a geçiş döneminde her türlü desteği vermeye hazırız.TİCARET HACMİ HEDEFİ 500 MİLYON DOLARGeçen sene ticaret hacmimiz belirlediğimiz hedefi aşarak 112 milyon dolara ulaşmıştır. Ticari ilişkilerimizi çeşitlendirmeyi ve geliştirmeyi hedefliyoruz. Yeni hedefimiz hacmi 200 milyon dolar seviyesine, ikinci etapta 500 milyon dolar seviyesine ulaştırmaktır.Çad'la işbirliğimizi her alanda daha ileriye taşımaya kararlıyız. Bu anlamda eğitim faaliyetleriyle Türkiye Maarif Vakfı, kalkınma projeleri ve yardımlarıyla TİKA, düzenli uçuşlarıyla THY ve STK'larımız iki ülke ilişkilerine önemli katkılarda bulunuyor.FETÖ'ye karşı mücadelede Çadlı kardeşlerimizin desteğini unutmamız mümkün değil. FETÖ iltisaklı okulların 2017'de Türkiye Maarif Vakfı'na devredilmesine müteşekkiriz. Terör örgütleriyle mücadele eden Çad'la askeri, savunma, güvenlik alanlarında da işbirliğimizi geliştirmeye hazırız.

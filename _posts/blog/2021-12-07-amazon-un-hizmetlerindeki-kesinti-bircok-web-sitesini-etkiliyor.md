@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Amazon'un hizmetlerindeki kesinti birçok web sitesini etkiliyor
+date: 2021-12-07 18:29:15
+thumbnail: https://cdnuploads.aa.com.tr/uploads/Contents/2021/12/07/thumbs_b_c_48cb3bcc6e5ea262e3af371bdc6a58e5.jpg?v=213531
+rating: 5
+---
+nternet sitelerindeki çökme sorununu bildiren "Down Detector" sitesi, AWS'ye Türkiye saatiyle 19.00'da büyük bölümü New York, Chicago ve Washington merkezli 11 binden fazla eriim sorunu rapor edildii… [+673 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

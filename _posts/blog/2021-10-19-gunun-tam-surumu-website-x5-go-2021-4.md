@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Günün Tam Sürümü: WebSite X5 Go 2021.4
+date: 2021-10-19 08:24:50
+thumbnail: https://www.chip.com.tr/images/content/gaotd20211019100000-4x3.jpg
+rating: 3
+---
+WebSite X5 Go 2021, kod yazmanza gerek kalmadan kendi web sitenizi oluturmann her admnda size rehberlik eden bir yazlmdr. Programn 5 admn izleyin, Sürükle ve Brak düzenleyicisinden ve tüm tarayclar v… [+347 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

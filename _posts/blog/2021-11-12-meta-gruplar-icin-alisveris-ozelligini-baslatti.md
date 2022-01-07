@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Meta, gruplar için alışveriş özelliğini başlattı!
+date: 2021-11-12 18:00:47
+thumbnail: https://shiftdelete.net/wp-content/uploads/2021/11/meta-gruplar-icin-alisveris-ozelligini-baslatti4.jpg
+rating: 5
+---
+Meta bünyesindeki Facebook, yeni bir alveri özellii getirdi. Facebook’un balatt özelliin ‘gruplar‘a yönelik olduunu öreniyoruz. Peki, hem gruplarda olup hem de alverie yönelik olan bu özellik ne ifad… [+2203 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

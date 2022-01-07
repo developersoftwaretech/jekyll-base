@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: 'Bu örgütü parayı veren kullanıyor'
+date: 2021-11-07 04:00:00
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6186ebdd4e3fe0123004a9d0.jpg
+rating: 5
+---
+BU DEVLET SİZE TESLİM EDİLİR Mİ?“Bay Kemal çıktı ne diyor, gelirse ne yapacakmış, Kandil’i yerle yeksan edecekmiş. Sana bu millet bu devleti teslim eder mi? Bu HDP’ye, bu İYİ Parti’ye bu devlet teslim edilir mi ya? Batman, çevresindeki Diyarbakır, Muş, Bitlis, Siirt, Mardin gibi yıllarca terör örgütünün zulmü altında acılar çekmiş, kayıplar vermiş bir şehrimizdir. Türkiye’nin demokrasi ve kalkınma dönemindeki sıkıntılarına baktığımızda karşımıza hep tek parti döneminin millete ve milletin değerlerine düşman faşizminin ayak izleri çıkmaktadır. Halbuki bu topraklarda bin yıldır kardeşçe yaşayan insanlar olarak vatanımıza yönelen her türlü saldırıya birlikte karşı koyduk.EN ÇOK KÜRTLERİN KANINI DÖKTÜLERBizzat terör örgütü yöneticileri, Avrupa’daki kimi çevreler başta olmak üzere, dışarıdan kendilerine çözümü reddetmeleri, çatışmayı yeniden başlatmaları konusunda yoğun baskılar yapıldığını söylüyor. Terör örgütü hiçbir gerekçesi kalmadığı halde ısrarla şiddeti seçen tavrıyla bu topraklarla, bu topraklarda yaşayan insanlarla aslında hiçbir bağının olmadığını ispatlamıştır. Parayı verenin dilediği gibi kullandığı, dilediği yere saldırttığı, dilediği şekilde yönlendirdiği bu örgüt, en çok benim Kürt kardeşlerimin kanını döktü, en büyük bedeli Kürt kardeşlerimize ödetti.HDP TASALLUTUNU SONA ERDİRECEĞİZBize düşen görev bugün de tek yürek olarak bu kirli oyunu bozmaktır. Ülkemizi PKK’nın silahlı tasallutundan kurtardık, bu örgütün kuklası olan HDP’nin siyasi tasallutundan da kurtaracağız. Çevremizde kurulan kanlı tezgahın ardındaki hain niyetleri görüyoruz.”

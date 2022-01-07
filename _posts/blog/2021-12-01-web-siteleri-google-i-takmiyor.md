@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Web siteleri, Google'ı "takmıyor"
+date: 2021-12-01 11:07:21
+thumbnail: https://www.chip.com.tr/images/content/manset/2020/08/14/20200814152318367120/web-sitelerinin-en-azindan-yarisinin-google-pek-takmadigi-ortaya-cikti.jpg
+rating: 5
+---
+Searchmetrics'in yeni bir raporuna göre, Dünya'nn en iyi web sitelerinin çou, hem masaüstü hem de mobil platformlarda, Google standartlarna göre belirlenen ideal kullanc deneyimini (UX) salayamyor. F… [+1066 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

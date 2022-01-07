@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Ağız ve diş sağlığını korumanın yolları
+date: 2021-11-20 14:57:00
+thumbnail: https://i20.haber7.net/resize/1240x720//haber/haber7/photos/2021/46/yasam_boyu_agiz_ve_dis_sagligi_1637420157_9388.jpg
+rating: 4
+---
+Saln yannda bakmsz olan az ve diler kötü görüntüye sebep olacandan kiinin psikolojik, sosyal ve fizyolojik yaamn da olumsuz etkiler. Doru az bakm ve düzenli di frçalamak, güzel ve salkl bir gülümseme… [+3301 chars]</br>&nbsp;Ümitköy İmplant Tedavisi
+Ümitköy İmplant Tedavisi diş kliniğimizin en önemli ve en çok tercih edilen hizmetlerinde birisidir. İmplant tedavisi yönteminde bireylerin eksik ya da kırık dişlerinin yerine vidalar yerleştirilmektedir. Bu yöntem ile hasta sağlıklı bir diş yapısına kavuşmaktadır. İmplant tedavisi ile takılan vidalar ağız içindeki dokulara zarar vermeyen metallerden yapılmaktadır. Bu metaller; titanyum olarak ifade edilmektedir. Ümitköy İmplant Tedavisi hizmetinin en önemli aşaması titanyum metalinin ağız içinde doku ve kemikle bağlanmasıdır. Bu süreçte hastanın titanyuma karşı alerji göstermemesi önemli olmaktadır. Biz Ümitköy İmplant Tedavisi olarak tedavi sırasında kullandığımız titanyumlar alerjik reaksiyona neden olmazlar. Tedavi sonrasında bu titanyumlar hastanın ağzının bir parçası haline gelmektedir. Titanyumların dayanıklılığı çok yüksektir. Bu tedavi hizmetimiz ile hasta tek dişinin eksik olmasından dolayı diğer dişlerinden vazgeçmek zorunda kalmamaktadır. Ümitköy İmplant Tedavisi ile ağız içine kolayca yerleştirilen titanyumların ağız ve diş sağlığı için diğer tedaviler için de faydası bulunmaktadır. Titanyumlar ağızda tutucu ve protez yapılmasına imkan sağlamaktadır.<a href="https://www.umitkoydent.com/tedavi/umitkoy-implant-tedavisi">diş</a>

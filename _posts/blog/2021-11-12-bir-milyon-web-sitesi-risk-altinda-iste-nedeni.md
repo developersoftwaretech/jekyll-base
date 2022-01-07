@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Bir milyon web sitesi risk altında! İşte nedeni
+date: 2021-11-12 12:34:22
+thumbnail: https://shiftdelete.net/wp-content/uploads/2021/11/bir-milyon-wordpress-tabanli-web-sitesi-risk-altinda.jpg
+rating: 3
+---
+Uzmanlar, WordPress sisteminin bir eklentisinde güvenlik aç tespit etti. Bu da kötü niyetli kiilerin bir milyondan fazla web sitesinin tehlike altna alnmasna yol açt. Wordfence Threat Intelligence ek… [+1895 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Kabine toplandı... Gündem yoğun
+date: 2021-11-08 13:43:03
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/618928cb4e3fe10a2ca487b8.jpg
+rating: 4
+---
+Bakanlar Toplantısı, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Cumhurbaşkanlığı Külliyesi'nde başladı. MASADA NELER VAR?Saat 15:50'de yoğun gündemle başlayan toplantının ilk gündem maddesi ise dış politika. Cumhurbaşkanı Erdoğan'ın İtalya'nın başkenti Roma'da, G-20 Liderler Zirvesi'nde ABD Başkanı Joe Biden ile görüşmesi ve burada konuşulan F-16 ve F-35 konuları masaya yatırılacak.Diğer bir konu başlığı ise olası bir sınır ötesi operasyon. Toplantıda Milli Savunma Bakanı Hulusi Akar'ın terörle mücadeleye ilişkin bir sunum yapması bekleniyor.Gözden Kaçmasınİşte işçi tarafının beklediği zam Haberi görüntüleASGARİ ÜCRET VE EYT DE GÖRÜŞÜLECEKToplantının bir başka gündem başlığı ise ekonomi. Asgari ücret, Emeklilikte Yaşa Takılanlar (EYT) ve 3600 ek gösterge gibi konuların gündeme alınması bekleniyor.SALGINLA MÜCADELEKoronavirüsle mücadele de bir başka ana gündem konusu. Bilim Kurulu'nun aldığı kararlar, yerli aşı ile ilgili çalışmaların da Kabine Toplantısı'nda masaya yatırılacağı öğrenildi.Toplantının ardından Cumhurbaşkanı Erdoğan'ın kameralar karşısına geçmesi bekleniyor.Gözden KaçmasınİYİ Parti'de, Lütfü Türkkan koltuğunu Erhan Usta'ya devretti ama vekilliği sürecek... Haberi görüntüle</br>&nbsp;Ekonomi<a href="Ekonomi">ekonomi</a>

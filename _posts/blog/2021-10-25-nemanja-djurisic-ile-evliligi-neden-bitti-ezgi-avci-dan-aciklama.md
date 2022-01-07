@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Nemanja Djurisic ile evliliği neden bitti? Ezgi Avcı'dan açıklama
+date: 2021-10-25 14:51:22
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6176c4214e3fe10008019eeb.jpg
+rating: 4
+---
+Miss Turkey 2013 üçüncüsü Ezgi Avcı,  "Müge ve Gülşen'le 2. Sayfa" programına konuk oldu, sunucuların "Nemanja Djurisic ile evliliğiniz neden bitti?" sorusuna yanıt verdi.Ünlü sunucu, Karadağlı basketbolcu ile boşanma nedenlerini şöyle açıkladı:"HAKİKATEN ÇOK UÇTUM" "Bir yıl Almanya, bir yıl Belçika, bir yıl İspanya, bir yıl da Türkiye'de geçirdik. O kendi sezonuna adapte, maçlarına gidiyor. Ben aynı zamanda burada hayat amacımı gerçekleştirmeye çalışıyorum...""Bunun için okudum, bunun için emek verdim. Beni mutlu edecek işi yapmam lazım. Dolayısıyla ben de sürekli seyahat halindeydim, hakikaten çok uçtum...""Özellikle Belçika'da olduğumuz sene üç gün İstanbul'dayım, kalan günler oradayım. Bir uçuşta buradan çıkıp, orada eve girmem dokuz saat sürüyordu...""AYNI PAYDADA BULUŞAMADIK" "Bunu yapmak kolay değil. Biz bu koşturmacayı, seyahatleri flört döneminde yaptık. 'Bunu evlilikte de yapabiliriz' diye düşündük. Gördük ki 4.5 yılın sonunda düşündüğümüz olmadı...""Aynı paydada buluşamadık. Aslına hayat amaçlarımız aynı noktada değildi. Arkadaşlığımız devam ediyor, hiç kötü ayrılmadık, hala görüşüyoruz."10 BİN EURO ÖDEYECEK! Yaklaşık beş dakika süren dava sonunda ikilinin boşanmasına karar veren mahkeme, çiftin sundukları boşanma protokolüne göre; davalı eş Nemanja Drusiric’in, Ezgi Avcı’ya 10 bin euro ödemesine hükmetmişti.Gözden KaçmasınEzgi Avcı ve basketbolcu Nemanja Djurisic evlendiHaberi görüntüle </br>&nbsp;euro<a href="euro">euro</a>

@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Yeni "kopyala - yapıştır" geliyor
+date: 2021-12-08 14:10:52
+thumbnail: https://www.chip.com.tr/images/content/manset/2020/07/03/20200703094633775119/microsoft-emektar-kopyala-yapistir-islevini-degistiriyor.jpg
+rating: 5
+---
+Microsoft, Windows 11'de Edge web taraycsna yeni özellikler getirmeye çalyor. Haberlere göre irket, Edge web taraycsnda yeni bir kopyala + yaptr metodu deniyor.
+Google'dan daha güvenli depolamaGoogl… [+1274 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

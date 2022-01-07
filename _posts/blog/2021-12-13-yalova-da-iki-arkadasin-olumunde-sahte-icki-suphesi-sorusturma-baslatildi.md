@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Yalova'da iki arkadaşın ölümünde sahte içki şüphesi... Soruşturma başlatıldı
+date: 2021-12-13 14:48:00
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/1200x675/61b75d174e3fe01bc49b79aa.jpg
+rating: 5
+---
+Oto tamirciliği yapan Ekrem Tekin, kaldığı iş yerini dün sabah açmadı. Bunun üzerine Tekin’in arkadaşları durumu polise bildirdi. Gelen ekipler, gerekli izinlerin alınmasının ardından çilingirle girdiği iş yerinde Ekrem Tekir’in cansız bedeniyle karşılaştı.Komşularının ifadelerine başvuran polis ekipleri, Ekrem Tekir’in yakın arkadaşı Mehmet Yazgan ile bir gün önce akşam saatlerinde sahte içki içtiğini tespit etti. Yalnız yaşayan Yazgan’ın evine giden ekipler, kapıyı açan olmayınca çilingir çağırdı. Kapıyı açtırıp içeri giren ekipler Yazgan’ı da ölü buldu. Olay yerindeki savcılık incelemesinin ardından Tekir’in cesedi, otopsi için Sakarya Adli Tıp Kurumu’na, Yazgan’ın cesedi ise İstanbul Adli Tıp Kurumu'na gönderildi.Otopsinin ardından cenazeler, aileleri tarafından teslim alındı. Ekrem Tekin Yalova’da, Mehmet Yazgan ise Adapazarı’nda toprağa verildi.Yalova Cumhuriyet Başsavcılığı, olayla ilgili soruşturma başlatırken, Tekir ve Yazgan’ın ölüm nedeni otopsi raporuyla belli olacak.</br>&nbsp;Adana bölgesinde çilingir ve anahtarcılık üzerine profesyonel olarak hizmet vermekteyiz. Oto anahtarı veya kumandalarınızın pil değişim işlemi, kumanda kap değişimi, kumanda arızalarını gidermekteyiz.<a href="https://www.cilingiradana.net/">Çilingir</a>

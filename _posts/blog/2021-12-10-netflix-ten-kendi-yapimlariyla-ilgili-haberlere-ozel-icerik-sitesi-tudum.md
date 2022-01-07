@@ -1,0 +1,17 @@
+--- 
+layout: blog
+title: Netflix'ten kendi yapımlarıyla ilgili haberlere özel içerik sitesi: Tudum
+date: 2021-12-10 07:10:00
+thumbnail: https://cdn.webrazzi.com/uploads/2021/12/tudum-793.png
+rating: 4
+---
+
+Dünyanın en popüler streaming platformlarından Netflix, dizileri, filmleri ve yapım aşamasındaki oyunlarıyla ilgili en son haberleri, özel bilgileri, yeni gelişmeleri, güncellemeleri ve daha fazlasını bir araya getirmek için Tudum adlı bir web sitesini yayına aldı. Yeni web sitesi, şirketin eylül ayında gerçekleşen global etkinliği ile aynı ismi taşıyor.
+İsmini kullanıcıların Netflix'te play tuşuna bastıklarında duydukları sesten alan Tudum'a dünyanın her yerinden erişmek mümkün. Netflix'in CMO'su Bozoma Saint John, bir blog yazısında yeni web sitesinin lansmanını duyurdu.
+Bozoma Saint John, 90'larda pop kültürünün John Elway ve Denver Broncos'u izlemek, Paula Abdul ve Tupac dinlemek anlamına geldiğini; artık Netflix'in kültürel zamanın bir parçası olduğunu söylüyor. İşini bu kadar heyecanlı kılan şeyin, yaptıkları iş sayesinde dünyanın her yerindeki hayranlarla en sevdikleri diziler ve filmler aracılığıyla sürekli bağlantı kurabilmesi olduğunu belirten Bozoma Saint John, hayranların sevdikleri hikayelere daha derinlemesine dalmaları ve yeni sohbetler başlatmaları için Tudum'u tanıtmaktan heyecan duyduğunu belirtiyor.
+
+
+
+Platforma girip incelediğimizde son ve popüler haberleri, Netflix yapımlarına dair özel içerikleri, incelemeleri, fragmanları ve çok daha fazlasını görebiliyoruz. Eğer bir Netflix kullanıcısıysanız platform size kişiselleştirilmiş içerikler de sunuyor. Neler izlediğinize göre ilginizi çekebilecek yazılar, haberler bir alanda size öneriliyor. Sitede ayrıca gelecek içeriklerin olduğu bir alana da yer verilmiş. 
+Tudum'daki içerikler, bir abonenin izleme alışkanlıklarına göre oluşturuluyor. Yani Bridgerton'ı izleyen bir abone, Netflix hesabına giriş yaptığı cihazlarda Tudum'u açtığında Shonda Rhimes yapımı dizilerle ilgili hikayeleri görüyor veya Emily in Paris izleyen bir kişi, diziye özel hazırlanmış özel içerikleri okuyabiliyor. Tudum'daki içerikler yalnızca İngilizce olarak karşımıza çıkıyor. Şu an için içeriklerin ileride yerelleştirileceğine dair herhangi bir bilgi bulunmuyor.
+</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

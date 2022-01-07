@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: 20. Milli Eğitim Şurası gündemi için MEB'e ulaşan öneriler belli oldu
+date: 2021-11-30 08:11:51
+thumbnail: https://cdnuploads.aa.com.tr/uploads/Contents/2021/11/30/thumbs_b_c_3aa72f5708abc1df0e5c55c7be4489a2.jpg
+rating: 3
+---
+Milli eitim sistemi için tavsiye kararlar almak üzere 7 yl arann ardndan toplanacak 20. Milli Eitim uras'ndaki özel ihtisas komisyonlarnda görüülmek üzere Milli Eitim Bakanlna ulaan öneriler arasnda … [+9853 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

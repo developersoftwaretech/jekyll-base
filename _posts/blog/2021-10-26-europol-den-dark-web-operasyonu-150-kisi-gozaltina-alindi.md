@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Europol'den Dark Web operasyonu: 150 kişi gözaltına alındı
+date: 2021-10-26 13:16:00
+thumbnail: https://i20.haber7.net/resize/1240x720//haber/haber7/photos/2021/43/europolden_dark_web_operasyonu_150_kisi_gozaltina_alindi_1635254179_4515.jpg
+rating: 5
+---
+Avrupa Polis Tekilat Europol, "Yüksek profilli hedef" olduu belirtilen Dark Web kullanclarna dünya çapnda operasyon düzenlendi.
+ABD, Avustralya, Almanya ve ngiltere'nin yan sra Hollanda, Fransa, svi… [+527 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

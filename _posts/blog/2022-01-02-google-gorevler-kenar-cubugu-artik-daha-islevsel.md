@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Google Görevler kenar çubuğu artık daha işlevsel
+date: 2022-01-02 18:00:00
+thumbnail: https://www.donanimhaber.com/images/images/haber/143344/600x338google-gorevler-kenar-cubuguna-yeni-ozellikler-eklendi.jpg
+rating: 5
+---
+a').click()"&gt;Tam Boyutta Gör
+Google Görevler, çok fazla kullancya sahip deil ve irket daha fazla kullanc tarafndan tercih edilmesi için kenar çubuunun yeni bir sürümünü yaynlad ve birkaç yenilik … [+979 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

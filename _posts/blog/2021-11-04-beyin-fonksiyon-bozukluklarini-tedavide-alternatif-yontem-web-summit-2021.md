@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Beyin Fonksiyon Bozukluklarını Tedavide Alternatif Yöntem [Web Summit 2021]
+date: 2021-11-04 13:26:46
+thumbnail: https://bigumigu.com/wp-content/uploads/2021/11/neuroelectrics-web-summit-2021-bigumigu-5.jpeg
+rating: 3
+---
+Neuroelectrics, nörolojik ilev bozukluu olan hasatlarn durumunu anlamak ve tedavi etmek için beyindeki elektriksel etkileime odaklanan bir terapi yöntemi sunuyor. irket tarafndan gelitirilen giyilebi… [+4124 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

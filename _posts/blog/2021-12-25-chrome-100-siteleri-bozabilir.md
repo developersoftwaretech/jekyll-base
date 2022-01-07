@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Chrome 100, siteleri bozabilir!
+date: 2021-12-25 21:08:19
+thumbnail: https://www.chip.com.tr/images/content/manset/2018/09/05/2018090510215498572/chrome-100-geliyor-beraberinde-bu-tehlikeyi-de-getiriyor.jpg
+rating: 3
+---
+2008'de piyasaya sürülen Chrome gelecek yln balarnda 100. sürümüne ulaacak, ancak ne yazk ki bu dönüm noktas baz web sitelerinin artk Google'n taraycsnda çalmamasna neden olacak. Chrome 100 için plan… [+2014 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Trabzonspor Fenerbahçe maçı ne zaman saat kaçta?
+date: 2021-10-17 12:55:45
+thumbnail: https://im.haberturk.com/2021/10/17/ver1634475345/3224282_1200x627.jpg
+rating: 5
+---
+Sosyal medya hesabından bir açıklama yapan Aslı Şen, paylaştığı Linet fotoğrafının üzerine de çarpı işareti koydu.İşte o açıklama:Yıllardır canlı müzik mekanlarında bir çok sanatçıyı dinlemeye giderim. Genelde de masam en öndedir. Adabımuaşeret gereği sanatçı özellikle ön masalara (ki bence tüm salona demeli) gözünün ucuyla da olsa saygıdan bir selam verir.Dün gece sanatçımız 6 kadından oluşan masamıza bir an olsun bile gözünün ucuyla bile bakmazken, her nedense tüm erkekli masalara gülücükler gönderiyordu. 2 sene önce de başka bir mekanda yapmıştı, "herhalde ben yanlış anladım" demiştim. Dün gece de aynı şey olunca anladım ki hanımefendinin tarzından. Sesine bayılmama rağmen, sahnesi ve özellikle kadınlara olan tavrı sebebiyle masamızı erkenden terk ettik.Biraz Tarkan'ı, Ebru Gündeş'i, Kenan Doğulu'yu, Zülfü Livaneli'ni Sezen Aksu'yu izlemesini öneririm. Starlık sadece ses ile olmuyor maalesef:(Mekanlarda sanatçı seçerken umarım bu söylediklerimi dikkate alırlar, malum restoranlar bu tarz eğlence mekanları özellikle kadınların tekelinde ve yönlendirmesi ile çalışırlar. Özellikle kadın grupların huzurla eğlenmesi gece hayatı için önemlidirMekan Sahibi bir iş kadını olarak Aslı ŞenAslı Şen, eski Fenerbahçe Spor Kulübü başkanlarından Ali Şen'in gelini...LİNET'TEN YANITŞarkıcı Linet gelen eleştirilere böyle yanıt verdi:Gözden KaçmasınLinet: 600 yıl önce İspanya’dan geldik!Haberi görüntüle

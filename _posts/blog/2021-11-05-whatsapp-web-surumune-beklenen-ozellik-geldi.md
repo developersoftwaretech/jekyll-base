@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: WhatsApp Web sürümüne beklenen özellik geldi!
+date: 2021-11-05 09:49:27
+thumbnail: https://shiftdelete.net/wp-content/uploads/2021/11/whatsapp-tartismali-emojileri-resmen-yayinladi.jpg
+rating: 3
+---
+Dünyann en popüler mesajlama uygulamalarndan WhatsApp, 2009da piyasaya sürüldü ve imdi 2 milyardan fazla kullancya sahip. 2015 ylnn Ocak aynda WhatsApp Webi tantarak büyük bir yenilie imza atan irket… [+1550 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Yenilikçi diş fırçası Oral-B iO tanıtıldı
+date: 2021-11-19 09:15:00
+thumbnail: https://i20.haber7.net/resize/1240x720//haber/haber7/photos/2021/46/yenilikci_dis_fircasi_oral_b_io_tanitildi_1637313190_5259.jpg
+rating: 3
+---
+Kullanc deneyimi, teknoloji, tasarm ve performansta kullanc beklentilerini daha önce hiç olmad kadar yukar tayan ilham verici aratrmalarla gelitirilen Oral-B iO, frçalama konusunda daha önce görülmem… [+3088 chars]</br>&nbsp;Ümitköy İmplant Tedavisi
+Ümitköy İmplant Tedavisi diş kliniğimizin en önemli ve en çok tercih edilen hizmetlerinde birisidir. İmplant tedavisi yönteminde bireylerin eksik ya da kırık dişlerinin yerine vidalar yerleştirilmektedir. Bu yöntem ile hasta sağlıklı bir diş yapısına kavuşmaktadır. İmplant tedavisi ile takılan vidalar ağız içindeki dokulara zarar vermeyen metallerden yapılmaktadır. Bu metaller; titanyum olarak ifade edilmektedir. Ümitköy İmplant Tedavisi hizmetinin en önemli aşaması titanyum metalinin ağız içinde doku ve kemikle bağlanmasıdır. Bu süreçte hastanın titanyuma karşı alerji göstermemesi önemli olmaktadır. Biz Ümitköy İmplant Tedavisi olarak tedavi sırasında kullandığımız titanyumlar alerjik reaksiyona neden olmazlar. Tedavi sonrasında bu titanyumlar hastanın ağzının bir parçası haline gelmektedir. Titanyumların dayanıklılığı çok yüksektir. Bu tedavi hizmetimiz ile hasta tek dişinin eksik olmasından dolayı diğer dişlerinden vazgeçmek zorunda kalmamaktadır. Ümitköy İmplant Tedavisi ile ağız içine kolayca yerleştirilen titanyumların ağız ve diş sağlığı için diğer tedaviler için de faydası bulunmaktadır. Titanyumlar ağızda tutucu ve protez yapılmasına imkan sağlamaktadır.<a href="https://www.umitkoydent.com/tedavi/umitkoy-implant-tedavisi">diş</a>

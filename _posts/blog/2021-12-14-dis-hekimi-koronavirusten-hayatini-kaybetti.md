@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Diş hekimi koronavirüsten hayatını kaybetti
+date: 2021-12-14 09:24:00
+thumbnail: https://i20.haber7.net/resize/1240x720//haber/haber7/photos/2021/50/dis_hekimi_koronavirusten_hayatini_kaybetti_1639473826_0836.jpg
+rating: 4
+---
+Sakarya Az ve Di Sal Hastanesinde görevli Veysel Erdem Uzun, yaklak 1 ay önce koronavirüs tehisi konularak Sakarya Eitim ve Aratrma Hastanesinde tedavi altna alnd. Youn bakmda tedavi gören Veysel Erd… [+412 chars]</br>&nbsp;Ümitköy İmplant Tedavisi
+Ümitköy İmplant Tedavisi diş kliniğimizin en önemli ve en çok tercih edilen hizmetlerinde birisidir. İmplant tedavisi yönteminde bireylerin eksik ya da kırık dişlerinin yerine vidalar yerleştirilmektedir. Bu yöntem ile hasta sağlıklı bir diş yapısına kavuşmaktadır. İmplant tedavisi ile takılan vidalar ağız içindeki dokulara zarar vermeyen metallerden yapılmaktadır. Bu metaller; titanyum olarak ifade edilmektedir. Ümitköy İmplant Tedavisi hizmetinin en önemli aşaması titanyum metalinin ağız içinde doku ve kemikle bağlanmasıdır. Bu süreçte hastanın titanyuma karşı alerji göstermemesi önemli olmaktadır. Biz Ümitköy İmplant Tedavisi olarak tedavi sırasında kullandığımız titanyumlar alerjik reaksiyona neden olmazlar. Tedavi sonrasında bu titanyumlar hastanın ağzının bir parçası haline gelmektedir. Titanyumların dayanıklılığı çok yüksektir. Bu tedavi hizmetimiz ile hasta tek dişinin eksik olmasından dolayı diğer dişlerinden vazgeçmek zorunda kalmamaktadır. Ümitköy İmplant Tedavisi ile ağız içine kolayca yerleştirilen titanyumların ağız ve diş sağlığı için diğer tedaviler için de faydası bulunmaktadır. Titanyumlar ağızda tutucu ve protez yapılmasına imkan sağlamaktadır.<a href="https://www.umitkoydent.com/tedavi/umitkoy-implant-tedavisi">diş</a>

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Sosyal medya fenomenlerine ‘dolandırıcılık’ şoku: Tutuklandılar
+date: 2021-11-14 04:00:00
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6190196a4e3fe016f40ef80c.jpg
+rating: 5
+---
+Ekipler, dolandırıcılık şebekesinin, kullanıcıları sosyal medya üzerinden oynanan oyundan para ödülü kazandıkları ancak belli miktarda vergiyi vererek ödülü alabilecekleri yalanıyla kandırdığını tespit etti. Polis, 10 Kasım’da eşzamanlı düzenlenen operasyonlarla aralarında sosyal medya fenomeni Simge Barankoğlu (27) ve Yeşim Aydın’ın (27) da bulunduğu 18 kişiyi gözaltına alındı. Polisteki işlemlerinin ardından önceki akşam adliyeye sevk edilen şüphelilerden 16’sı tutuklandı, 2’si ise serbest bırakıldı.‘BİLSEM KABUL ETMEZDİM’Tutuklanan Simge Barankoğlu’nun ifadesinde “Sosyal medya fenomeniyim. Geçimimi reklam alarak sağlıyorum. Soruşturmaya konu bu eylem de diğer reklamlar gibiydi. Ben tarafları ve müştekileri tanımıyorum. Suçlamaları kabul etmiyorum” dedi.Tutuklanan Yeşim Aydın’ın da “Geçimimi sosyal medyada reklam yaparak sağlıyorum. Bu kişiler benimle temasa geçip reklam vermek istediklerini söyledi. Ben de işim bu olduğu için kabul ettim. Böyle bir dolandırıcılık suçunun işlendiğini bilseydim asla kabul etmezdim. Bana verilen isim ve soyadlarının sahte olduğunu emniyette öğrendim. Kimseyi dolandırmak için çalışmadım. Müştekilerin hiçbiri ile iletişime geçmedim, para istemedim. Sadece reklam ücreti aldım. Çok üzgünüm” dediği öğrenildi.

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Edge'in yeni hedefi Safari
+date: 2021-11-09 07:05:58
+thumbnail: https://www.chip.com.tr/images/content/manset/2021/04/06/202104061846033746/tarayici-savaslarinda-ekim-raporu-microsoft-edge-emin-adimlarla.jpg
+rating: 3
+---
+Yeni verilere göre Microsoft Edge, yava ama emin admlarla yllarn web taraycs Firefox'la arasn açmaya devam ediyor. StatCounter'n son rakamlarna göre Microsoft Edge, Eylül sonunda %3,77 olan pazar pay… [+1291 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

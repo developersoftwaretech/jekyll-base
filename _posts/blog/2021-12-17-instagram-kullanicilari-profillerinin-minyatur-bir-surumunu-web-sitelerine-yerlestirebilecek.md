@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Instagram kullanıcıları, profillerinin minyatür bir sürümünü web sitelerine yerleştirebilecek
+date: 2021-12-17 18:00:00
+thumbnail: https://www.donanimhaber.com/images/images/haber/142744/600x338instagram-profil-yerlestirme-ve-reels-gorsel-yanitlar-i-duyurdu.jpg
+rating: 3
+---
+a').click()"&gt;Tam Boyutta Gör
+Instagram, kullanclarn uygulamadaki profillerini üçüncü taraf web sitelerine yerletirmelerine olanak tanyacak. u an için yalnzca ABD'deki kullanclar için eriilebilir … [+1619 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

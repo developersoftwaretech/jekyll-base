@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Cumhurbaşkanlığı İletişim Başkanı Altun'dan "Teşekkürler Erdoğan" paylaşımı
+date: 2021-10-25 18:26:00
+thumbnail: https://i4.hurimg.com/i/hurriyet/75/0x0/6176f6ef4e3fe003ecfe2b73.jpg
+rating: 3
+---
+Altun, sosyal medya hesabından, "Teşekkürler Erdoğan" etiketiyle paylaşımda bulundu.  "Cumhurbaşkanımız Erdoğan'ın Türkiye'deki 10 büyükelçiliğin yayımladığı kabul edilemez açıklamaya karşı gösterdiği liderliğe minnettarız. Cumhurbaşkanımızın bu saygısız açıklamaya tepkisi, ulusal egemenliğimize bağlılığının ve hassasiyetinin bir sonucudur." ifadelerini kullanan Altun, şu değerlendirmelerde bulundu:  "Türkiye diğer ülkelerin içişlerine her daim saygı duymuş, uluslararası hukuk ve teamül doğrultusunda hiçbir zaman yargı süreçlerine karışmamıştır. Diğer ülkelerden, özellikle de müttefik ülkelerden ve ülkemizdeki temsilcilerinden de aynısını bekliyoruz. Dışişleri Bakanlığımız bu yabancı misyonlara gerekli cevabı vermiş ve kabul edilemez bu davranışları konusunda kendilerini uyarmıştır."  Altun, hükümetin gerektiğinde ulusal egemenlikten asla taviz vermeyeceğini gösterecek başka adımlar atmaktan da çekinmeyeceğini vurgulayarak, şunları kaydetti:  "Bu diplomatik anlaşmazlığı, siyasi çıkarları için bir iç meseleye çevirenler ise belli ki şaşırmış durumda. Onların 'Bağımsızlık benim karakterimdir' diyen bir liderin yolundan gittikleri iddiası akıl almaz bir yalandır. Ulusal egemenliğimiz ve milletimizin güvenliği söz konusu olduğunda tavizsiz bir duruş sergileyen Cumhurbaşkanımız bir kez daha kimseye boyun eğmedi ve hükümetimizin, ülkemizin egemenliğini ve bağımsızlığını korumak için gerekeni yapmaya hazır olduğunu bütün dünyaya gösterdi."

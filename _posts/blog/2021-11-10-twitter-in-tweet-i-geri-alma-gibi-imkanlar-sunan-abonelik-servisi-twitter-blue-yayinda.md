@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Twitter'ın "Tweet'i geri alma" gibi imkanlar sunan abonelik servisi Twitter Blue yayında
+date: 2021-11-10 12:20:00
+thumbnail: https://cdn.webrazzi.com/uploads/2021/04/twitter-37.png
+rating: 3
+---
+Twitter'n abonelik servisi Twitter Blue hakknda detaylar geçen aylarda sizlere aktarmtk.  Atlan tweet'i geri alma özellii gibi imkanlar sunan Twitter Blue yayna alnd. ABD, Yeni Zelanda, Kanada ve Avu… [+3450 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

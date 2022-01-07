@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: İşte HMS Ekosistemindeki gelişmeler
+date: 2021-11-09 09:09:20
+thumbnail: https://www.chip.com.tr/images/content/2021/11/08/2021110820005998685/huawei-yillik-gelistirici-konferansinda-hms-ekosistemi-konusuldu.jpg
+rating: 4
+---
+Açl oturumunda Huawei, HMS'nin hzla genilediini gösteren en son Q3 ekosistem büyüme rakamlarn açklad. Huawei, genel bir uygulama hacmi, kaytl gelitiriciler ve aylk aktif kullanclar (MAU'lar) dahil ol… [+7048 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

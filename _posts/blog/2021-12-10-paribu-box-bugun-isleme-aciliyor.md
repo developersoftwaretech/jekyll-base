@@ -1,0 +1,13 @@
+--- 
+layout: blog
+title: Paribu Box bugün işleme açılıyor
+date: 2021-12-10 10:24:53
+thumbnail: https://cdn.webrazzi.com/uploads/2021/12/paribu-box-579.png
+rating: 5
+---
+
+Geçtiğimiz hafta Paribu'nun Metaverse projeleri başta olmak üzere erken dönem proje tokenlerini desteklemek için Paribu Box'ı 10 Aralık'ta faaliyete geçireceğini sizlere aktarmıştık. Paribu kullanıcıları, bugünden itibaren mobil uygulama ve web üzerinden Box sekmesi altında işlem yapabilecek.
+Box’ın  “erken dönem proje” olarak adlandırılan projelere ait kripto varlıkların alınıp satılabilmesi için yeni bir pazar yeri olarak konumlandığını hatırlatalım. Ayrıca şirket, bu yeni sekmeyi kullanıcılardan gelen talepler doğrultusunda oluşturmaya karar verdi. 
+Box’ta hangi tokenlar listeleniyor? 
+Box da İlk olarak ALICE ve TLM’nin listeleneceğini belirtmekte fayda var. Ancak Paribu'nun yeni sekmesi Box'ta yalnızca Metaverse projeleri değil, farklı alanlardaki projelere ait kripto varlıklar da listelenecek. Böylece kripto para ekosisteminde bulunan erken dönem proje ürünlerinin pek çoğuna Paribu güvencesiyle erişerek işlem yapmak mümkün olacak. Box'ta listelenecek kripto varlıkların duyuruları ise Paribu’nun resmi sosyal medya hesapları üzerinden gerçekleştirilecek. Eğer erken dönem projelere ilgi duyan bir Paribu kullanıcısıysanız, Paribu'nun sosyal medya hesaplarını yakından takip etmenizde fayda var. 
+</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

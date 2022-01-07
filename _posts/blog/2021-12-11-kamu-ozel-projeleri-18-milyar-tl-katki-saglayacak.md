@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: 'Kamu-özel projeleri 18 milyar TL katkı sağlayacak'
+date: 2021-12-11 13:13:19
+thumbnail: https://im.haberturk.com/2021/12/11/ver1639228399/3280348_1200x627.jpg
+rating: 3
+---
+İzmir'de yaşayan S.E., eski eşinin tehditleri gerekçesiyle adli makamlara başvurarak tedbir kararları aldırdı. Ancak sonuncu “yaklaşmama” yönündeki tedbir kararı karşı tarafa tebliğ edilmedi. S.E., eski eşi V.A. tarafından öldürüldü. Mahkeme, eski eşe 25 yıl hapis cezası verdi. Karar Yargıtay’ca onandı. S.E.’nin annesi T.A.’nın, kızının ölümünde bazı kamu görevlilerinin ihmali olduğu iddiasıyla yaptığı başvurular sonuçsuz kaldı. Şikâyet edilen kamu görevlileri hakkında soruşturma izni verilmedi. T.A. da AYM’ye başvurdu.‘YARGISAL TEPKİ’AYM, oy birliği ile yaşam hakkının, koruma ve etkili soruşturma yükümlülüğü bakımından ihlal edildiğine karar verdi. Kararda, “Risklerin en aza indirilmesi ve gerekli önlemlerin alınması konusunda sorumluluğu bulunan kişilerin tespit edilebilmesi ve tespit edilen sorumluluklar karşısında devletin göstereceği yargısal tepki, benzer olayların yaşanmaması bakımından da önem taşımaktadır” denildi. ÖRNEK NİTELİĞİNDEİçtihat niteliği taşıyan kararda, kamu görevlilerinin ciddi ihmal ve kusuru bulunduğunun altı çizilerek, yeniden yargılama istendi. Karar, kadın cinayetlerinde haklarında takipsizlik verilen kamu görevlileri hakkında AYM’ye başvurarak yeniden yargılama yolunu açabilecek</br>&nbsp;<a href="">Kamu</a>

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Play Store’un web sitesi değişiyor: İşte yeni tasarımı!
+date: 2021-11-19 14:46:26
+thumbnail: https://shiftdelete.net/wp-content/uploads/2021/11/google-play-store-web-sitesi-degisiyor-iste-yeni-gorunum.jpg
+rating: 4
+---
+Android ekosisteminin maazas Google Play Store yalnzca mobil cihazlara özel deil. Web ortamnda da hizmet veriyor ve kullanclar telefondaki Google hesabyla sitede oturum açtklarnda, telefona uzaktan u… [+2146 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Türk Devletleri Teşkilatı Kazakistan'a desteğe hazır
+date: 2022-01-06 09:18:39
+thumbnail: https://im.haberturk.com/2022/01/06/ver1641460719/3305954_1200x627.jpg
+rating: 3
+---
+TBMM Başkanı Şentop, Bahreyn'in milli günü nedeniyle; Temsilciler Meclis Başkanı Fawzia Zaınal ile Şura Konseyi Başkanı Ali Bin Saleh'e tebrik mektubu gönderdi. Şentop mektubunda, Bahreyn'in Milli Günü'nü tebrik ederek, "Ülkelerimiz arasında dostluk ve kardeşlik zemini üzerinde gelişen ilişkilerimizin müşterek gayretlerimizle yoğunlaştıracağımız parlamentolar arası ziyaret ve temaslarla daha da zenginleşeceğine inanıyorum" ifadesini kullandı.KAZAKİSTAN'A TEBRİK MEKTUBUŞentop ayrıca, Kazakistan'ın milli günü nedeniyle; Kazakistan Parlamento Başkanı Nurlan Nıgmatulın ile Seneto Başkanı Maulen Ashımbayev'e gönderdiği tebrik mektubunda, şunları kaydetti:"Kazakistan Cumhuriyeti'nin Bağımsızlık Günü münasebetiyle dost ve kardeş Kazakistan halkını, Türkiye Büyük Millet Meclisi üyeleri ve şahsım adına en kalbi duygularla tebrik ederim. Türkiye ve Kazakistan arasındaki mevcut kardeşlik ve dostluk ilişkilerinin temelinde derin tarihi, kültürel ve beşeri bağlar mevcuttur. Parlamentolarımız arasındaki yakın ilişkiler de bu sağlam zemin üzerinde gelişmekte, ikili ve çok taraflı platformlarda ivme kazanmaktadır. Bağımsızlık Gününüzü bir kere daha kutlarken dost ve kardeş Kazakistan halkına sıhhat, huzur ve refah, Zat-ı Alinize ve şahsınızda Kazakistan Senatosu’nun değerli üyelerine başarı ve mutluluk dileklerimi iletirim."</br>&nbsp;Kazakistan olayları<a href="https://www.dental-ilan.org/">kazakistan</a>

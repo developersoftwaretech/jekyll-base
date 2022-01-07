@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Ölümün en çevreci yolu: Cesetten beslenen canlı tabut
+date: 2021-11-18 09:45:36
+thumbnail: https://cdn1.ntv.com.tr/gorsel/Xi-TnkjfkUm7bVbIOq5RlA.jpg?width=1080&mode=crop&scale=both
+rating: 5
+---
+Küresel ısınma nedeniyle dünya her geçen gün sona yaklaşırken, çevreci asdmlar büyük önem taşıyor. Hollandalı bir girişimci bmantarları kullanarak yaşayan bir tabut üretti. Cesedin ayrışmasını kolayl… [+2791 chars]</br>&nbsp;Ümitköy İmplant Tedavisi
+Ümitköy İmplant Tedavisi diş kliniğimizin en önemli ve en çok tercih edilen hizmetlerinde birisidir. İmplant tedavisi yönteminde bireylerin eksik ya da kırık dişlerinin yerine vidalar yerleştirilmektedir. Bu yöntem ile hasta sağlıklı bir diş yapısına kavuşmaktadır. İmplant tedavisi ile takılan vidalar ağız içindeki dokulara zarar vermeyen metallerden yapılmaktadır. Bu metaller; titanyum olarak ifade edilmektedir. Ümitköy İmplant Tedavisi hizmetinin en önemli aşaması titanyum metalinin ağız içinde doku ve kemikle bağlanmasıdır. Bu süreçte hastanın titanyuma karşı alerji göstermemesi önemli olmaktadır. Biz Ümitköy İmplant Tedavisi olarak tedavi sırasında kullandığımız titanyumlar alerjik reaksiyona neden olmazlar. Tedavi sonrasında bu titanyumlar hastanın ağzının bir parçası haline gelmektedir. Titanyumların dayanıklılığı çok yüksektir. Bu tedavi hizmetimiz ile hasta tek dişinin eksik olmasından dolayı diğer dişlerinden vazgeçmek zorunda kalmamaktadır. Ümitköy İmplant Tedavisi ile ağız içine kolayca yerleştirilen titanyumların ağız ve diş sağlığı için diğer tedaviler için de faydası bulunmaktadır. Titanyumlar ağızda tutucu ve protez yapılmasına imkan sağlamaktadır.<a href="https://www.umitkoydent.com/tedavi/umitkoy-implant-tedavisi">diş</a>

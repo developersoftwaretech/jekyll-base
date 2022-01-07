@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Amazon Web Services, 21 ülkede altyapı merkezi kuruyor!
+date: 2021-12-02 18:10:08
+thumbnail: https://shiftdelete.net/wp-content/uploads/2021/11/aws-sagemaker-canvasi-tanitildi-2.jpg
+rating: 5
+---
+Her yl geleneksel olarak düzenledii re:Invent etkinliini bu yl da Amerika Birleik Devletleri’nin Las Vegas ehrinde gerçekletiren Amazon Web Services, 2022 ylnn sonuna kadar birçok yeni ülkede altyap … [+1982 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: Teknoloji Sürdürülebilir Modanın Geleceğini Şekillendiriyor [Web Summit 2021]
+date: 2021-11-05 14:27:46
+thumbnail: https://bigumigu.com/wp-content/uploads/2021/11/hm-web-summit-2021-bigumigu-9.jpeg
+rating: 3
+---
+74 yl önce sveç’in Västerås kasabasnda küçük bir maaza ile sektöre admn atan ve u anda uluslararas maazalar zinciri olan H&amp;M, sürdürülebilirlii irket politikas olarak ön plana koyan moda markalar… [+3547 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

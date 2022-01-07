@@ -1,0 +1,9 @@
+--- 
+layout: blog
+title: Adobe, popüler Photoshop ve Illustrator uygulamalarını tarayıcıya getirdi
+date: 2021-10-27 09:20:00
+thumbnail: https://www.donanimhaber.com/images/images/haber/140790/600x338adobe-photoshop-ve-illustrator-web-uzerinden-kullanilabilecek.jpg
+rating: 5
+---
+a').click()"&gt;Tam Boyutta Gör
+Günümüzde birçok irket, herhangi bir yükleme ilemine gerek duymadan kullanm salanabilen bulut tabanl sistemlere geçi yapyor. Bu uygulamalar arasna katlmay planlayan A… [+1050 chars]</br>&nbsp;Web tasarım, internetin ve teknolojinin gelişmesi ile birlikte pek çok kişiyi doğrudan etkileyen oldukça önemli bir unsurdur. Web tasarım, özellikle müşterilerine ve hedef kitlesine ulaşmak isteyen kişiler için çok önemlidir. Dijital Platformda yer alarak profesyonel yaklaşımlarını aktarmak isteyen şirketler, kurumlar veya küçük işletmeler, kendilerini en doğru şekilde yansıtacak olan tasarım seçimleri yapmalıdır. Çünkü web sitelerinin özgün tasarımlara sahip olmasını ve müşterileri etkilemesini sağlamaktadır. Bu doğrultuda pek çok kişi “Web tasarım nedir?” sorusunu sorabilmektedir. Bu soruya verilebilecek en doğru cevap; tasarım fikirlerinin, estetik çizgisinde ve belirli bir amaç doğrultusunda yönlendirildiği, düzenlendiği daha sonra ise uygulamaya dönüştüğü işlemler olarak adlandırılabilir, şeklindedir. Söz konusu işlemlerin tamamlanması sonrasında ise meydana aktif bir şekilde web sitelerine erişim sağlanabilmesi çıkar. Tüm bunların yanı sıra web tasarım unsurları bulunmaktadır. Peki, söz konusu tasarım unsurları nelerdir? Gelin hep beraber inceleyelim.<a href="https://www.developerbilisim.com/web-tasarim">web</a>

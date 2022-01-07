@@ -1,0 +1,8 @@
+--- 
+layout: blog
+title: KKTC’de muhaceret affı ile cezalı olanlara af geldi
+date: 2021-11-04 21:06:03
+thumbnail: https://i01.sozcucdn.com/wp-content/uploads/2021/11/04/iecrop/kibris-reuters_16_9_1608647376_16_9_1627577579_16_9_1636059948-670x371.jpg
+rating: 4
+---
+CHP İzmir Milletvekili Murat Bakan, TBMM Başkanı Mustafa Şentop’un yanıtlaması üzere Meclis Başkanlığı’na bir önerge verdi. Bakan, önergesinde TBMM web sayfasında yer alan milletvekilleri özgeçmişiyle ilgili şu istekte bulundu:SOSYAL MEDYA İLE DUYURABİLMEKTE“Özellikle Instagram, YouTube ve TikTok son yılların yükselen mecralarıdır. Milletvekillerinin özgeçmişlerinin ve yasama faaliyetlerinin bulunduğu sayfada, sadece Facebook ve Twitter adlı sosyal medya mecralarının bağlantıları eklenebilmektedir. Burada bir düzenleme yapılarak, milletvekillerinin özellikle YouTube ve Instagram sayfalarına erişim bağlantısı eklenmesi noktasında bir revize/çalışma yapmayı düşünüyor musunuz?”TBMM Başkanvekili Bilgiç, Başkan Şentop adına önergeyi, “TBMM resmi internet sayfasında milletvekillerinin özgeçmiş bilgilerinin bulunduğu kısma milletvekillerine ait sosyal medya hesabı olarak soru önergenizde bahsi geçen sosyal medya hesaplarının eklenmesi mümkün olup; milletvekillerimiz tarafından talep edilmesi durumunda kendi özgeçmiş sayfalarında gerekli değişiklik yapılabilecektir” sözleriyle yanıtladı.</br>&nbsp;web sitesi<a href="https://www.developerbilisim.com/">web</a>
